@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	  <title>Demonstration Of Classes</title>
-      <link type='text/css' rel='stylesheet' href='style.css'/>
+	  <title>Example of a Class in PHP</title>
 	</head>
 	<body>
       <p>
