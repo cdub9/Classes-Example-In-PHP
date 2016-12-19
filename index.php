@@ -7,7 +7,6 @@
       <p>
         <?php
             class Person {
-                public $isAlive = true;
                 public $firstname;
                 public $lastname;
                 public $age;
